@@ -12,6 +12,7 @@
 		EDAE9D2E1DAECE2900B16F01 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDAE9D2C1DAECE2900B16F01 /* Main.storyboard */; };
 		EDAE9D301DAECE2900B16F01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDAE9D2F1DAECE2900B16F01 /* Assets.xcassets */; };
 		EDAE9D331DAECE2900B16F01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDAE9D311DAECE2900B16F01 /* LaunchScreen.storyboard */; };
+		EDAE9D3B1DAED01200B16F01 /* photo-1455052642859-f8449866e500.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDAE9D3A1DAED01200B16F01 /* photo-1455052642859-f8449866e500.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EDAE9D2F1DAECE2900B16F01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EDAE9D321DAECE2900B16F01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EDAE9D341DAECE2900B16F01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDAE9D3A1DAED01200B16F01 /* photo-1455052642859-f8449866e500.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "photo-1455052642859-f8449866e500.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		EDAE9D271DAECE2900B16F01 /* Whats The Weather */ = {
 			isa = PBXGroup;
 			children = (
+				EDAE9D3A1DAED01200B16F01 /* photo-1455052642859-f8449866e500.jpg */,
 				EDAE9D281DAECE2900B16F01 /* AppDelegate.swift */,
 				EDAE9D2A1DAECE2900B16F01 /* ViewController.swift */,
 				EDAE9D2C1DAECE2900B16F01 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDAE9D3B1DAED01200B16F01 /* photo-1455052642859-f8449866e500.jpg in Resources */,
 				EDAE9D331DAECE2900B16F01 /* LaunchScreen.storyboard in Resources */,
 				EDAE9D301DAECE2900B16F01 /* Assets.xcassets in Resources */,
 				EDAE9D2E1DAECE2900B16F01 /* Main.storyboard in Resources */,
